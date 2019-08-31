@@ -12,3 +12,4 @@ print 9: verificando arquivos com git status
 print 10: tive que fazer o clone de novo por conta de algum problema que não tenho conhecimento, assim refazendo a pasta toda
 até que cheguei na parte de fazer o git add . novamente e dessa vez funcionou tranquilamente 
 print 11: usando commit 
+print 12: commit funcionando perfeitamente 
