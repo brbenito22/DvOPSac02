@@ -16,3 +16,4 @@ print 12: commit funcionando perfeitamente
 print 13: usando git push 
 print 14: git push funcionando perfeitamente 
 print 15: mostrando que o git push funcionou e foi upado no site github
+print 16: adicionando prints 13,14 e 16
