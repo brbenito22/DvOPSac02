@@ -13,3 +13,6 @@ print 10: tive que fazer o clone de novo por conta de algum problema que não te
 até que cheguei na parte de fazer o git add . novamente e dessa vez funcionou tranquilamente 
 print 11: usando commit 
 print 12: commit funcionando perfeitamente 
+print 13: usando git push 
+print 14: git push funcionando perfeitamente 
+print 15: mostrando que o git push funcionou e foi upado no site github
