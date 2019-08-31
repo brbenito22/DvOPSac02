@@ -18,3 +18,9 @@ print 14: git push funcionando perfeitamente
 print 15: mostrando que o git push funcionou e foi upado no site github
 print 16: adicionando prints 13,14 e 16 
 print 17: usando git pull
+print 18: usando git fetch 
+print 19: usando -- chakout 
+
+
+
+teste chekout 
